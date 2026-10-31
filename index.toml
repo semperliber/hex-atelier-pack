@@ -46,7 +46,7 @@ hash = "a5f5e0cb2b4310f335bd05bfa9c70e4dea4aaca62081a98e351257154ffe4f6e"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "009305279024c31aaa03c54b72dba688a9270bd24438a9e46505a0618233f311"
+hash = "1ef300644d323d4fc257101347a87c207c8a9d79a7672b602457ffe8b9a7b4b2"
 
 [[files]]
 file = "config/hexic.properties"
@@ -118,6 +118,10 @@ file = "kubejs/server_scripts/coalescer_rules.js"
 hash = "236905c0942b479aa7d3ed603bcbbfecb5ab8f08f3b93c5946c55a524659faff"
 
 [[files]]
+file = "kubejs/server_scripts/finite_allays.js"
+hash = "9767607e5d9918bd7494cf0056b117b75f7c36650f2defeef34cd901c389d180"
+
+[[files]]
 file = "kubejs/server_scripts/hexcasting_phial.js"
 hash = "c83540ecd0ece50048284663d0a21a35730c12094bc07bfe848bc2c9ef4df6d3"
 
@@ -131,11 +135,11 @@ hash = "b3b40505a1e0ef0967c16bd8247a623ce85ee206069e9a5dc4b3e1d67a8bcb43"
 
 [[files]]
 file = "kubejs/server_scripts/hexwright_loot_scope.js"
-hash = "b7c31c42d49c84e4fe472fbecce8674e9987ee00cdb98605ad79aa20e860278d"
+hash = "032826e0eb88ce4038f021b291bac7f90d9e25f0c0015466596a6f20da8f2a22"
 
 [[files]]
 file = "kubejs/server_scripts/hexwright_scope.js"
-hash = "a5ceaa5f9e551b3110dd90f98bb1993d17ed047d4f0851df948c67e573162fb2"
+hash = "1d4e186ebf8df7548420f2846fe25d4b54ecf6598b2ec76c960cb7a7bc16cdd9"
 
 [[files]]
 file = "licenses/Fabric-ASM-2.3-MPL-2.0.txt"
@@ -399,11 +403,6 @@ hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "56aa0a3036cc155609e1d96952a3588a9b1db53d4c65038e8b15cec301c31134"
-metafile = true
-
-[[files]]
-file = "mods/enchanted-fishing-line.pw.toml"
-hash = "ceef3a102bced9e5a81767d1bca3328519ebc4a872dea89fa47d9f12fd332d5a"
 metafile = true
 
 [[files]]
