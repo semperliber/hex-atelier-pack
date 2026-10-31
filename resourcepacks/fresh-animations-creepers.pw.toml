@@ -1,0 +1,13 @@
+name = "Fresh Animations: Creepers"
+filename = "FA+Creepers-v2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AhPf2E1u/versions/b90eVujh/FA%2BCreepers-v2.2.zip"
+hash-format = "sha512"
+hash = "881984168c933f263550bded400157c70e12dabd0c5b6b37bec9fc24189d3ba4f4d234e257d2ef842b287889acadc060266ff6e4031b46a98f803d4b2cf4a8a5"
+
+[update]
+[update.modrinth]
+mod-id = "AhPf2E1u"
+version = "b90eVujh"

@@ -1,0 +1,13 @@
+name = "Punchy!"
+filename = "punchy-3.0-fabric-1.20.1-birthday.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8aoMKplv/versions/paRscCds/punchy-3.0-fabric-1.20.1-birthday.jar"
+hash-format = "sha512"
+hash = "8bbbb62b6f321ce63bf9413fd069259750e711e3fe9a46a4b130b1af14e45ef0a12f68f055cb14e57c0a39eab68ca90e29d5413034c42f4268f5bfc4e52fc348"
+
+[update]
+[update.modrinth]
+mod-id = "8aoMKplv"
+version = "paRscCds"

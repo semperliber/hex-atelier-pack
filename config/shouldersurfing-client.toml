@@ -1,0 +1,4 @@
+[perspective]
+default_perspective = "FIRST_PERSON"
+remember_last_perspective = false
+replace_default_perspective = true

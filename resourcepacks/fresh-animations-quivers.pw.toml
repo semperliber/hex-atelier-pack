@@ -1,0 +1,13 @@
+name = "Fresh Animations: Quivers"
+filename = "FA+Quivers-v2.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/T4pK4GiQ/versions/dxPm8dtx/FA%2BQuivers-v2.3.zip"
+hash-format = "sha512"
+hash = "6495d1df5fa8658feb7b15f7366a658f35fa2742a7798703a5e6111acd0ce076653c0b00a9af204cfbe02a2dac85e675165a969e12b018a46c2c4a5874049b42"
+
+[update]
+[update.modrinth]
+mod-id = "T4pK4GiQ"
+version = "dxPm8dtx"

@@ -1,0 +1,13 @@
+name = "Fresh Animations: Spiders"
+filename = "FA+Spiders-v2.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aqKnWmBf/versions/BGPlulVm/FA%2BSpiders-v2.3.zip"
+hash-format = "sha512"
+hash = "15732293bee1a7987d0e5a6a00b7b00068d516c89a9a9fc545f8457d123e3c5f92d2c2d3fca5c7db3a78ab7d0cdb1f1eccae559e1f61377070a41c550a22d30a"
+
+[update]
+[update.modrinth]
+mod-id = "aqKnWmBf"
+version = "BGPlulVm"

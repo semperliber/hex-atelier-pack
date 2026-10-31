@@ -4,5 +4,6 @@
   "restrictCoalescerToCommon": true,
   "disableCoalescerRedstone": true,
   "restrictCoalescingGambitToPlayers": true,
-  "disableRegeneratingProducerRecipes": true
+  "disableRegeneratingProducerRecipes": true,
+  "fixWaxedServerStartup": true
 }

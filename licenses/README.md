@@ -73,4 +73,48 @@ Shallows Crossing (working name), `shallows-crossing-0.2.0.jar`, is my own work,
 
 ## Hex Atelier Integration
 
-Hex Atelier Integration (working name), `hex-atelier-integration-0.2.0.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.
+Hex Atelier Integration (working name), `hex-atelier-integration-0.2.1.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.
+
+Its Waxed server compatibility hook contains no copied Waxed code or assets. Waxed & Shiny 1.1.6 remains an unmodified [official download](https://modrinth.com/mod/waxed/version/Z7EFxCt4), used as an optional dependency. Its Maker's Mods License permits integration through a dependency; the [author's modpack clarification](https://github.com/IIAmMaker/Carved-wood/blob/master/LICENSE.txt) permits unmodified official copies in modpacks and prohibits distributing modified versions. Waxed's own notices remain inside its jar.
+
+## Player and mob presentation downloads
+
+### Resource options and world advice
+
+These are unchanged official downloads, referenced rather than rehosted. Resource Pack Options 4.6.2 and LibJF 3.12.5 provide Just 3D Potions' experience-bottle choices. Disable Custom Worlds Advice 4.1 bypasses the client world-lifecycle advice screens; it does not change world data or enable experimental features.
+
+| Project | Licence evidence | Official release |
+|---|---|---|
+| Resource Pack Options | MIT in listing and exact jar | [4.6.2](https://modrinth.com/mod/respackopts/version/3zozfzTp) |
+| LibJF | Current listing LGPL-3.0-or-later; exact 3.12.5 root metadata MIT. Bundled modules retain their own notices. | [3.12.5](https://modrinth.com/mod/libjf/version/ARDN1LWN) |
+| Disable Custom Worlds Advice | Listing LGPL-3.0-only; exact jar embeds LGPLv3 text, with root metadata labelled GPL-3.0. | [4.1](https://modrinth.com/mod/dcwa/version/P23QCBEG) |
+
+**Fresh Animations and its official add-ons are by FreshLX.** The [official Fresh Animations terms](https://modrinth.com/resourcepack/fresh-animations) permit inclusion in modpacks/servers and retain the author’s rights and redistribution restrictions. This pack references the original downloads and does not copy their assets into another resource pack.
+
+These are unchanged official downloads referenced by this pack, not rehosted jars or resource-pack archives. Their authors’ licences still apply; this pack’s licence does not cover them. I have not modified their archive contents.
+
+| Project | Listed licence | Official pinned release |
+|---|---|---|
+| Punchy! | All rights reserved | [3.0](https://modrinth.com/mod/punchy-fpa/version/paRscCds) |
+| [EMF] Entity Model Features | LGPL-3.0-only | [3.3.12-fabric-1.20.1](https://modrinth.com/mod/entity-model-features/version/kIXaZJr8) |
+| [ETF] Entity Texture Features | LGPL-3.0-only | [7.2.6-fabric-1.20.1](https://modrinth.com/mod/entitytexturefeatures/version/kWWzrS7Z) |
+| Modefite - Item Definition Backport | GPL-3.0-only | [1.0.3+1.20.1](https://modrinth.com/mod/modefite-item-definition-backport/version/arHXVIg0) |
+| Not Enough Animations | LicenseRef-tr7zw-Protective-License | [1.12.6](https://modrinth.com/mod/not-enough-animations/version/RzJ39lca) |
+| Shoulder Surfing Reloaded | MIT | [1.20.1-5.2.0+fabric](https://modrinth.com/mod/shoulder-surfing-reloaded/version/O1oYj7cx) |
+| Enchanted Fishing Line | All rights reserved | [1.0.0](https://modrinth.com/mod/enchanted-fishing-line/version/8SwzloQ7) |
+| Hyper Punchy | All rights reserved | [2.8](https://modrinth.com/resourcepack/hyper-punchy/version/kZtBCHN5) |
+| Fresh Animations | LicenseRef-See-Terms-of-Use-in-Description | [1.11.1](https://modrinth.com/resourcepack/fresh-animations/version/aQjwvDfY) |
+| Fresh Animations: Details | All rights reserved | [2.4.0](https://modrinth.com/resourcepack/fresh-animations-details/version/XM8VyQLk) |
+| Fresh Animations: Emissive | All rights reserved | [1.7.0](https://modrinth.com/resourcepack/fresh-animations-emissive/version/A3tITCIa) |
+| Fresh Animations: Spiders | All rights reserved | [2.3.0](https://modrinth.com/resourcepack/fresh-animations-spiders/version/BGPlulVm) |
+| Fresh Animations: Creepers | All rights reserved | [2.2.0](https://modrinth.com/resourcepack/fresh-animations-creepers/version/b90eVujh) |
+| Fresh Animations: Quivers | All rights reserved | [2.3.0](https://modrinth.com/resourcepack/fresh-animations-quivers/version/dxPm8dtx) |
+| Just 3D Potions (Punchy!) | All rights reserved | [1.2](https://modrinth.com/resourcepack/just-3d-potions/version/OsbdpM9c) |
+| Fyoncle's 3D Trims | All rights reserved | [6.0](https://modrinth.com/resourcepack/fyoncles-3d-trims/version/G6jdCgwE) |
+| Modded Swords x Punchy! Compatibility | All rights reserved | [1.5.2](https://modrinth.com/resourcepack/punchy-compatibility/version/uAIEPgpB) |
+
+## Partial Hex Casting 3D
+
+[Hex Atelier Partial Hex Casting 3D](<../resourcepacks/Hex Atelier Partial Hex Casting 3D.zip>) derives selected models and texture sheets from **Hex Casting 3D 1.0.0**, [gok6mBsU](https://modrinth.com/resourcepack/hex-casting-3d/version/gok6mBsU), by **[Viktoria_Ntro](https://modrinth.com/user/Viktoria_Ntro)**. Its project listing designates **MIT**; the upstream ZIP supplies no separate copyright/licence file. The [attribution and MIT permission notice](hex-casting-3d-MIT.txt) identify the listed owner and are also included inside the derived ZIP. The original HC3D archive is not shipped.
+
+The small blockstate/model-wrapper derivations from **Hex Casting 0.11.4** retain its [MIT notice](hexcasting-assets-MIT.txt), copyright ©2021 gamma-delta, from the [v0.11.4 source](https://github.com/FallingColors/HexMod/blob/v0.11.4/LICENSE.txt). That notice is also inside the ZIP. Models and changed texture sheets use the pack-owned `hex_atelier_hc3d` namespace; blockstate references and MODEFITE definitions select them. Original item models, original texture paths and stateful items remain untouched.

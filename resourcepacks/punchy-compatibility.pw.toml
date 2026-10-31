@@ -1,0 +1,13 @@
+name = "Modded Swords x Punchy! Compatibility"
+filename = "Modded Swords x Punchy! 1.20.1 - 1.21.1 v1.5.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dJ0eaUH6/versions/uAIEPgpB/Modded%20Swords%20x%20Punchy%21%201.20.1%20-%201.21.1%20v1.5.2.zip"
+hash-format = "sha512"
+hash = "ece01f7929dbe397d9e7e8d4f49704eb8e7c6204de75965eeda436d907c2ea34e6f23150890dd083f385d934b2e2af66801d0c8a9b790fa11d15bb2c739ca0e7"
+
+[update]
+[update.modrinth]
+mod-id = "dJ0eaUH6"
+version = "uAIEPgpB"

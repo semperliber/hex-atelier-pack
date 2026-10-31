@@ -1,0 +1,13 @@
+name = "Just 3D Potions (Punchy!)"
+filename = "Just 3D Potions 1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/elBxAvkW/versions/OsbdpM9c/Just%203D%20Potions%201.2.zip"
+hash-format = "sha512"
+hash = "e41e99de4f623d10ff6faacd8cb51280b18eb67691cf679b081e3bca8506043bcb40e901e27986191a5951aefa266abb9252b7e4f07e29356da63ca74dd35375"
+
+[update]
+[update.modrinth]
+mod-id = "elBxAvkW"
+version = "OsbdpM9c"

@@ -1,0 +1,13 @@
+name = "Modefite - Item Definition Backport"
+filename = "modefite_item_definitions-1.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qjlkcVfy/versions/arHXVIg0/modefite_item_definitions-1.0.3%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "6b58bc679cb18893de148b7c8465c1434f4bc17f4ebb6e2ea6a89b0774bdf335ecb4ab9ec5953e2a43714e877e48f49496c3c899d0fa611a9ba02920b2b1546c"
+
+[update]
+[update.modrinth]
+mod-id = "qjlkcVfy"
+version = "arHXVIg0"

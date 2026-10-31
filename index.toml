@@ -22,7 +22,7 @@ hash = "5c7e0c2678dc8cc182e51fee9c10e36d12c87c5f8e77a74d11c574100da98d95"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "83957b440f40b1730ede34dbbaf1e820eb34786d2a400b93a4727f3adf40b36c"
+hash = "e5d3cb23a84e8d31125b55533db921f2068e14756c44dfced97ab2b1f2d03183"
 
 [[files]]
 file = "config/emi.css"
@@ -38,7 +38,7 @@ hash = "bd449ff54e27a835ac241bc33d97f43f103b6614e0e620abd9f42e78006e89fb"
 
 [[files]]
 file = "config/hex-atelier-integration.json"
-hash = "f7aec8579f52e8d67e14d4843e8ba1d745964b50bebb2b823c24d3c33e64951f"
+hash = "3fbe99418b474c76f4b6fb19ff23f06889bd4ed128fd4d91d06c9fe1299815ac"
 
 [[files]]
 file = "config/hexcassettes.json"
@@ -79,6 +79,11 @@ hash = "d72b6fb97bbe135590302f51e023c53a1ca47a1f886b746c1804b637ea490745"
 [[files]]
 file = "config/serverpause-common.toml"
 hash = "1ad8c496963526d048c561c88563796b99074cefbe8450f0cc4d692a2e72f12c"
+
+[[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "e1440aa30f763ec39986ec63b1a286d200edced5df9455e4ec2ab26ac30ef354"
+preserve = true
 
 [[files]]
 file = "config/slate_work.json5"
@@ -146,7 +151,7 @@ hash = "0bf15df3576e4cf18023b44b4a330361ff6b9c5d4cf0befdb4208415cdf49c4c"
 
 [[files]]
 file = "licenses/README.md"
-hash = "02ec210304c137d1ff00df9900227710735e478838868e17341896c14eeb2099"
+hash = "b8e60d49c4e2648bde2a85bf329c3a48e8acb67ab5c0135937fe60dcd221ba0b"
 
 [[files]]
 file = "licenses/cardinal-components-api-5.2.1-MIT.txt"
@@ -185,8 +190,16 @@ file = "licenses/fractal-lib-1.2.0-MIT.txt"
 hash = "78adb196f340e8493878792f69cc2966714f2b664d7bb52d2e4982f6f0bf48d4"
 
 [[files]]
+file = "licenses/hex-casting-3d-MIT.txt"
+hash = "3b84172d16013357b31140655c3f2667b2b24f4d139d3d4e0ac8f494ca0f7968"
+
+[[files]]
 file = "licenses/hexcassettes-MIT.txt"
 hash = "53921a09bee4aa39ce6dfe598d79394b15f2ce24853f6a331459e69b9dfc3e42"
+
+[[files]]
+file = "licenses/hexcasting-assets-MIT.txt"
+hash = "d7f7877ec50807be1e9461160349b45adb349fce6bd1b869c239527112421391"
 
 [[files]]
 file = "licenses/hexical-MIT.txt"
@@ -350,6 +363,11 @@ hash = "79cbcfb46ea3284d470c2ce3c96f275c0a476a48f1460e0f87622979fadbd205"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.pw.toml"
+hash = "3f80cbcbccd66c8d1c0fe03ab51c5b2bb4a31e3bcece2638f0d4b1d48223d322"
+metafile = true
+
+[[files]]
 file = "mods/decorative-food.pw.toml"
 hash = "f7aa0dba9aed6ee994ea86caf0dc2d39ca822e4a8e39b13152db7933c9f04ab4"
 metafile = true
@@ -384,8 +402,23 @@ hash = "56aa0a3036cc155609e1d96952a3588a9b1db53d4c65038e8b15cec301c31134"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-fishing-line.pw.toml"
+hash = "ceef3a102bced9e5a81767d1bca3328519ebc4a872dea89fa47d9f12fd332d5a"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "57b02207c8323939025718c051dd7a2e18dae34ad6ca27753760a8e44880d9af"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "8f87be4a343aa97303a0d934d388dcd9674769f65f790a9ac0c13ea815024c78"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "9c3f955ecb685f039b9399f8d534e3afa7a23055b37e2bdfe81970e0c528cd7a"
 metafile = true
 
 [[files]]
@@ -469,8 +502,8 @@ hash = "668066d7cfc8874fd4fda98807dd096c20f75f21de0b7cb46ef76a958e10d1cd"
 metafile = true
 
 [[files]]
-file = "mods/hex-atelier-integration-0.2.0.jar"
-hash = "29b8cd2a1e72bc027fa18ce8c4d504b1ab9a800a32f3d7d52dee2472f93359f2"
+file = "mods/hex-atelier-integration-0.2.1.jar"
+hash = "eb602b2eb2b42805b7a996aa20bf2cf66a0d0ac7c97e0841f285d2e6e991ecad"
 
 [[files]]
 file = "mods/hex-casting-media-display.pw.toml"
@@ -658,6 +691,11 @@ hash = "c4750010629cf58949f3cc5a118c39fd40d465f59657b12646eee9a7faca77db"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "e78ab919d6778dcbf4503a483a013f7bdba7593839a884a4649b557da1bad87a"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
@@ -665,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/mclogs.pw.toml"
 hash = "f2c7a309cbb4f9ece32acafb6760162eb94b5db841b21cb81fba9cac2d50ed86"
+metafile = true
+
+[[files]]
+file = "mods/modefite-item-definition-backport.pw.toml"
+hash = "5d2ab963a4e27a13db8ee47175fffc1130832e1f56fa46c054f9282d4987c624"
 metafile = true
 
 [[files]]
@@ -705,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "2c630dc61d6596a390d65f5e91577f56dd1d560e6e1093dcbcac783430ccfcee"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "5a75e33925e910abb05fcaa53bd564ca59f74f1d4f897e4ec3bbd2c33dca2d79"
 metafile = true
 
 [[files]]
@@ -775,8 +823,18 @@ hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
 
 [[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "5ba42043ced17fc45432dbe67676bb0429a503ad673fc3d6cd37952629e30c81"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "79830366f72529a098f4df71537fbb537602d54260c6cae37032b45b3d3e3f35"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "73e7d4046f4f17552b858b56a861382f0d4652982e2c5b9fdcc239c5776d8c78"
 metafile = true
 
 [[files]]
@@ -821,6 +879,11 @@ metafile = true
 [[files]]
 file = "mods/shallows-crossing-0.2.0.jar"
 hash = "18bed711231db4cbd44d30dcbebb49b877b139adc9e2c37c51cd5193d2ec23be"
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "a1159779cecf57f691749b7628b5bcb725b0079ffd04e7fdf50277034c8f5c8c"
+metafile = true
 
 [[files]]
 file = "mods/simple-chat-disabler.pw.toml"
@@ -898,9 +961,13 @@ hash = "48f9c5894a3851a82fd2fe92de1cd44ee94bae4e7bc6af801d754752a7155f18"
 metafile = true
 
 [[files]]
-file = "resourcepacks/amethyst-frames.pw.toml"
-hash = "fda15ba4de8b8204a46b1ee3decdb9fe81b21216784d80ad4e435afb8fbf64d1"
-metafile = true
+file = "resourcepacks/Hex Atelier Partial Hex Casting 3D.zip"
+hash = "7cf907b1cce36a9bde1ba1e6a167790f348fceba731cc7f1f7470b94c35e2fb3"
+
+[[files]]
+file = "resourcepacks/Just 3D Potions 1.2.zip.rpo"
+hash = "bf03b4788af257fe0fb01af3afd9b6a31cf84587a112bb4af74337650d2887fd"
+preserve = true
 
 [[files]]
 file = "resourcepacks/arids-immersive-resprites.pw.toml"
@@ -908,8 +975,53 @@ hash = "4f93d013debdea7312fd21c2c9a8f30d669dc82efdf62be9ade007f74ec84928"
 metafile = true
 
 [[files]]
-file = "resourcepacks/hex-casting-3d.pw.toml"
-hash = "7f500dbd847a7acc56de80dd2b1e7f381d404704951c3160754e384882ac7e17"
+file = "resourcepacks/fresh-animations-creepers.pw.toml"
+hash = "accb752078a352a2d3f0f8c879f539b7af52f9c517b5728b5aa73cc7538389cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-details.pw.toml"
+hash = "aeefba4ef6d28313e1ee1de6f7e89fdb074374f712960d9e353445568474f18b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "7457f251fe959ccc219f811ae42a11b1b5b156f518d18f3bb0191d84c278c8f2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-quivers.pw.toml"
+hash = "6bad5be14b889798ec8bb2c42661bd32ce43417accebdb4538d7ec4d34e3834a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-spiders.pw.toml"
+hash = "1180af6819f7b166d67cd0a2ba791da8d11dda0ad04d074ea79bb5b6f0a2de2c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "174dfc4e2332878c681272c43ed881f963ec34f9560a8f7e858eb1927c99fa51"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fyoncles-3d-trims.pw.toml"
+hash = "31b9ff8b37c4b2f512cbbcd7ed7e5313c0aadcee0e2e2fb3407626bcb4087f72"
+metafile = true
+
+[[files]]
+file = "resourcepacks/hyper-punchy.pw.toml"
+hash = "6154dd5a5c1deabd6dee5097240c58412d1492191b492590c1094617e8947c73"
+metafile = true
+
+[[files]]
+file = "resourcepacks/just-3d-potions.pw.toml"
+hash = "85d831eec6abf1e043df1d50cdd5e5ca0882883f0ecaf0bd0cd2105758297b2b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/punchy-compatibility.pw.toml"
+hash = "8f27a917ccf74dbc2a525375ebedba8f40082f16ebd1d0873201ff3a7ae1133f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Fyoncle's 3D Trims"
+filename = "Fyoncle's 3D Trims.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ik3Z3RFx/versions/G6jdCgwE/Fyoncle%27s%203D%20Trims.zip"
+hash-format = "sha512"
+hash = "ec23dab932d5dd4a798d49742e01f47439a6c1f85a7db247e045affa53408d14ca77509c04d2453b33ee1907232aba809e4c957c59422be2fadd2335680634d7"
+
+[update]
+[update.modrinth]
+mod-id = "Ik3Z3RFx"
+version = "G6jdCgwE"
