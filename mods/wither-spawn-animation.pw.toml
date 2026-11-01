@@ -1,0 +1,13 @@
+name = "Wither Spawn Animation"
+filename = "wither-spawn-animation-FABRIC-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vr6UqBIT/versions/6MfF9iOj/wither-spawn-animation-FABRIC-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "9264e9a49f2f09378f5b30233fde5b12d6911001243111babe125856286efb97d101b09c469dceabfb3b1b3a6ba79758bae36b18f684228e46ca1523f72c8c4a"
+
+[update]
+[update.modrinth]
+mod-id = "Vr6UqBIT"
+version = "6MfF9iOj"

@@ -1,0 +1,13 @@
+name = "Burnt + Additions"
+filename = "burnt-1.10.5.3-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tsc9D2wh/versions/c4AGmJJQ/burnt-1.10.5.3-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "880a8e3753624b2c83c2a3894967c10285f1d9b9c348e435d025c1d0abed212368e2c48a1e824590e019eaad20147c4af3f5d46cca70e02bf78eda0a7aa1ffc7"
+
+[update]
+[update.modrinth]
+mod-id = "tsc9D2wh"
+version = "c4AGmJJQ"

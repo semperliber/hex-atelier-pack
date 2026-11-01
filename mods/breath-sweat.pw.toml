@@ -1,0 +1,13 @@
+name = "Breath & Sweat"
+filename = "breath-sweat-1,0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SuBeKGGE/versions/cQhXwdWX/breath-sweat-1%2C0.jar"
+hash-format = "sha512"
+hash = "7bdf80bc308b698ea409e1574030b4b2f88df42c1f74c3251071cb576e39467ad40ed6230d6e2d70da0f6ab6b2bf3d1a6298634b79a74b9bcb06a62d87a3936e"
+
+[update]
+[update.modrinth]
+mod-id = "SuBeKGGE"
+version = "cQhXwdWX"

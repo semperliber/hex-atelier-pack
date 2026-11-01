@@ -1,0 +1,13 @@
+name = "Crampedness"
+filename = "crampedness-1.20.1-fabric-1.1.6.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "4471fbb89c38f542e37131fb09e71cd24691e72e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9294820
+project-id = 1692274

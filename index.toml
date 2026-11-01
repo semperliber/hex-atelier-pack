@@ -297,8 +297,28 @@ hash = "4ed283068896cace20a016a72c72c292cb796d755f17ce478a8589f3917f7d67"
 metafile = true
 
 [[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "1213577948764954f685da7f84dc10aa531ec2bb74acb672053ea463fd979535"
+metafile = true
+
+[[files]]
+file = "mods/boat-fall.pw.toml"
+hash = "bfef4ac247cf5a18b534d2f6c8594d8338264c0742f20abe65ab99a967778fca"
+metafile = true
+
+[[files]]
+file = "mods/breath-sweat.pw.toml"
+hash = "127d668d2ddb391b2e6d0fdbc091a501379a789752b53cec3a2459cc93b09082"
+metafile = true
+
+[[files]]
 file = "mods/bulletin-board.pw.toml"
 hash = "6b29cb541078e420763240888ab6c6ec88bf4806fbe21528f76fe4174dabb610"
+metafile = true
+
+[[files]]
+file = "mods/burnt.pw.toml"
+hash = "ec9a0f770bf5a658b3eb9e80978d93c21f767066b4c1f99d75140861e6e82373"
 metafile = true
 
 [[files]]
@@ -359,6 +379,16 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "093f917246c13e4de933cb6de26e070f913e9b9795a981c7b56d5acfc523bbcd"
+metafile = true
+
+[[files]]
+file = "mods/crampedness.pw.toml"
+hash = "86ef183e276747ef55aaf6fed955cadb5c810e581d079b269db6a58fa8a5ff52"
+metafile = true
+
+[[files]]
+file = "mods/crashexploitfixer.pw.toml"
+hash = "a002c46e1e51a67c6c2d1bd235470dfd62932f3940a0bdd7374f8e108ce293ea"
 metafile = true
 
 [[files]]
@@ -705,6 +735,21 @@ hash = "f2c7a309cbb4f9ece32acafb6760162eb94b5db841b21cb81fba9cac2d50ed86"
 metafile = true
 
 [[files]]
+file = "mods/missing-wilds.pw.toml"
+hash = "1a9ee5307a9e9a597084011248fbf12b9cff8a4bd07f4ad1e9d0be56c01b6726"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "d6f183a84724222061472af24c2d918eb48947ee0bcd4034d3502227a4ebede4"
+metafile = true
+
+[[files]]
+file = "mods/mo-glass.pw.toml"
+hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
+metafile = true
+
+[[files]]
 file = "mods/modefite-item-definition-backport.pw.toml"
 hash = "5d2ab963a4e27a13db8ee47175fffc1130832e1f56fa46c054f9282d4987c624"
 metafile = true
@@ -847,6 +892,11 @@ hash = "83164a6af3923e28cadf9d404f059bf74aa4f0842fc1ca0f6e7cf1e686044875"
 metafile = true
 
 [[files]]
+file = "mods/saros-better-glass.pw.toml"
+hash = "fbf3f6880cc18103d84b71dbf14a99904a3e6e1e48dc70384f11c2b6e4926f3c"
+metafile = true
+
+[[files]]
 file = "mods/scribble.pw.toml"
 hash = "ec44e5e0ac6139a0927a6f64748095325cdca3a1064a45b762baabca181ce9a4"
 metafile = true
@@ -890,8 +940,18 @@ hash = "a717298d50b182ffa953c1e196aa2da8ceaa34dbbd02e066f764bd6f457162a8"
 metafile = true
 
 [[files]]
+file = "mods/simple-snowy-fix-forge-fabric.pw.toml"
+hash = "6b2c8134ee719202862859e4db7b8c9f6e6ae9e9edeffd102cd1aac72914d1dc"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "82750910bff91dbe484c85eed7c5e6573bc2050f3211b70a445ed9e9d0cd4984"
+metafile = true
+
+[[files]]
+file = "mods/skeleton-ai-fix.pw.toml"
+hash = "da33bd5fab51bb9ffa8d36236c87d1fdd4c0c3c7cdfcc9a277091e4d2d43d345"
 metafile = true
 
 [[files]]
@@ -902,6 +962,21 @@ metafile = true
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "f985288dc5af3c5fde96f303509839f1836c2a9716c321eb7910b90563413aa3"
+metafile = true
+
+[[files]]
+file = "mods/sneaky-curses.pw.toml"
+hash = "a4bcb4a89b024ef53f9bb4c50d5aeca61e17f40583e413dcba1311e3a11733d1"
+metafile = true
+
+[[files]]
+file = "mods/snow-imprints.pw.toml"
+hash = "1d0f6a11e19e5a1f7bfe918d89841b38380d71e51137f5ce5247b85eb799ab1e"
+metafile = true
+
+[[files]]
+file = "mods/snow-sniffer.pw.toml"
+hash = "add3a42f2065b153272532d9a4e7edae936d0da6b27a76d25b69d73ce811e50b"
 metafile = true
 
 [[files]]
@@ -917,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "269acb427f14832a51eea0f70c4e6039a7cf8747e12b70efc16eed74ec64f977"
+metafile = true
+
+[[files]]
+file = "mods/spatial-gui.pw.toml"
+hash = "eafd0d1851b2c19fa61720889cd9b608934370b315282bd1299d1b7881e551d5"
 metafile = true
 
 [[files]]
@@ -945,8 +1025,18 @@ hash = "a9b241cbbff036293ceb73c9fac0f58c2b1d60cefb2aed0212fc936556a16df8"
 metafile = true
 
 [[files]]
+file = "mods/visualhealth.pw.toml"
+hash = "019f25cefa040cf6e971c8a873f3a2a0604fb4e7e08e423596132c9cc20a3679"
+metafile = true
+
+[[files]]
 file = "mods/waxed.pw.toml"
 hash = "35adbde5138aaeb31f1234f5b8926661213956e3004657df358ea3ea8035e660"
+metafile = true
+
+[[files]]
+file = "mods/wither-spawn-animation.pw.toml"
+hash = "a1754ca25df7e8c352832164e7db5d4f8254e39a66f9fb854e096445dcf7de54"
 metafile = true
 
 [[files]]

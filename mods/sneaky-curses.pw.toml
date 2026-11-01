@@ -1,0 +1,13 @@
+name = "Sneaky Curses"
+filename = "SneakyCurses-v8.0.2-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TivKCwTx/versions/MuAWBqPq/SneakyCurses-v8.0.2-1.20.1-Fabric.jar"
+hash-format = "sha512"
+hash = "701c6afd77ec329b3bec787fe991cf8ff0aa8c3ffd2ce695318813e6fc7fa11b52f6b601bb53f7ba1886585768859a3244da7673bd2a9c815a01efa1abd3dd09"
+
+[update]
+[update.modrinth]
+mod-id = "TivKCwTx"
+version = "MuAWBqPq"

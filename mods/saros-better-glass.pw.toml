@@ -1,0 +1,13 @@
+name = "Saro´s Better Glass"
+filename = "sarosbetterglassmod-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qy6sHAUm/versions/gvulEHRp/sarosbetterglassmod-1.5.jar"
+hash-format = "sha512"
+hash = "7c6e039a0a6717296fdb7740bc408815958f9755a56c0d53d7cdacfe155badc786a51d45a36234f6d10ef65b44ca526f5d235584c787beaa7ddaf5d94f42e1b7"
+
+[update]
+[update.modrinth]
+mod-id = "Qy6sHAUm"
+version = "gvulEHRp"
