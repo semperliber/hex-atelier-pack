@@ -5,5 +5,10 @@
   "disableCoalescerRedstone": true,
   "restrictCoalescingGambitToPlayers": true,
   "disableRegeneratingProducerRecipes": true,
-  "fixWaxedServerStartup": true
+  "fixWaxedServerStartup": true,
+  "disableHexwrightCutForgeRecipes": true,
+  "disableHexwrightCutHoardRewards": true,
+  "disableHexwrightCutDisplayRewards": true,
+  "disableHexwrightAscendantBottles": true,
+  "disableHexwrightAscendantExtraction": true
 }

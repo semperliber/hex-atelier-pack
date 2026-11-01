@@ -38,7 +38,7 @@ hash = "bd449ff54e27a835ac241bc33d97f43f103b6614e0e620abd9f42e78006e89fb"
 
 [[files]]
 file = "config/hex-atelier-integration.json"
-hash = "3fbe99418b474c76f4b6fb19ff23f06889bd4ed128fd4d91d06c9fe1299815ac"
+hash = "6a2e61c2cd9fb829b691497488ae74ad68593620bd730abd6b789384299ab6b8"
 
 [[files]]
 file = "config/hexcassettes.json"
@@ -155,7 +155,7 @@ hash = "0bf15df3576e4cf18023b44b4a330361ff6b9c5d4cf0befdb4208415cdf49c4c"
 
 [[files]]
 file = "licenses/README.md"
-hash = "b8e60d49c4e2648bde2a85bf329c3a48e8acb67ab5c0135937fe60dcd221ba0b"
+hash = "8ca11c33e5ce55d3865b6c4706ae6f98bbd6052f292370b921f1745a39b617a1"
 
 [[files]]
 file = "licenses/cardinal-components-api-5.2.1-MIT.txt"
@@ -501,8 +501,8 @@ hash = "668066d7cfc8874fd4fda98807dd096c20f75f21de0b7cb46ef76a958e10d1cd"
 metafile = true
 
 [[files]]
-file = "mods/hex-atelier-integration-0.2.1.jar"
-hash = "eb602b2eb2b42805b7a996aa20bf2cf66a0d0ac7c97e0841f285d2e6e991ecad"
+file = "mods/hex-atelier-integration-0.3.0.jar"
+hash = "8e6ac40b508f102cdbcb6a85b566845bffdb76bac49f666975a4f28fc55b1624"
 
 [[files]]
 file = "mods/hex-casting-media-display.pw.toml"

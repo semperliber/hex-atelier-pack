@@ -73,7 +73,7 @@ Shallows Crossing (working name), `shallows-crossing-0.2.0.jar`, is my own work,
 
 ## Hex Atelier Integration
 
-Hex Atelier Integration (working name), `hex-atelier-integration-0.2.1.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.
+Hex Atelier Integration (working name), `hex-atelier-integration-0.3.0.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.
 
 Its Waxed server compatibility hook contains no copied Waxed code or assets. Waxed & Shiny 1.1.6 remains an unmodified [official download](https://modrinth.com/mod/waxed/version/Z7EFxCt4), used as an optional dependency. Its Maker's Mods License permits integration through a dependency; the [author's modpack clarification](https://github.com/IIAmMaker/Carved-wood/blob/master/LICENSE.txt) permits unmodified official copies in modpacks and prohibits distributing modified versions. Waxed's own notices remain inside its jar.
 
