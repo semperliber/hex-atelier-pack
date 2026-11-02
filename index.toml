@@ -17,10 +17,6 @@ file = "config/defaultoptions/extra/config/controlify.json"
 hash = "582e96c6fc7ff7a4590e518d171f890e501b23bd5e78dec60cf4109dedc2c3da"
 
 [[files]]
-file = "config/defaultoptions/extra/shaderpacks/ComplementaryReimagined_r5.9.3 + EuphoriaPatches_1.10.5.txt"
-hash = "5c7e0c2678dc8cc182e51fee9c10e36d12c87c5f8e77a74d11c574100da98d95"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "e5d3cb23a84e8d31125b55533db921f2068e14756c44dfced97ab2b1f2d03183"
 
@@ -63,10 +59,6 @@ hash = "0f38470a992bb54a12ef5054ade5f4ee78c450ea691a2fe4e46aec07597d0e69"
 [[files]]
 file = "config/immersive_melodies.json"
 hash = "3598a974eca3edb9ce1724dd58afb16fd7d85d2e044080cce6f677e2894436de"
-
-[[files]]
-file = "config/iris.properties"
-hash = "9cda707e10519f6c2ea3288a332f7debcac0d3527bd28ac161f4197f9849373a"
 
 [[files]]
 file = "config/servercore/config.yml"
@@ -155,35 +147,15 @@ hash = "0bf15df3576e4cf18023b44b4a330361ff6b9c5d4cf0befdb4208415cdf49c4c"
 
 [[files]]
 file = "licenses/README.md"
-hash = "8ca11c33e5ce55d3865b6c4706ae6f98bbd6052f292370b921f1745a39b617a1"
+hash = "e462eb30562b656412e9a3369a4bdadc37bb6c43686c10fe2253e5e3ee28563c"
 
 [[files]]
 file = "licenses/cardinal-components-api-5.2.1-MIT.txt"
 hash = "c90962dcb2d4a87ab5ba31e1c3d66bdb4e6b5805516c74d45c56b62132b79b6a"
 
 [[files]]
-file = "licenses/complementary-reimagined-r5.9.3-License.txt"
-hash = "e8d4ee004e2a706303e89651e5cafa2f06af4d04f373fa17fc8251880a995add"
-
-[[files]]
 file = "licenses/efhexs-MIT.txt"
 hash = "a235ce03a30a0cec1210342ddd8fb1198036b4015d4c56ccf865908dc2725032"
-
-[[files]]
-file = "licenses/euphoria-patcher-1.10.5-MPL-2.0.txt"
-hash = "2684de17300e0a434686f1ec7f8af6045207a4b457a3fe04b2b9ce655e7c5d50"
-
-[[files]]
-file = "licenses/euphoria-patcher-Apache-2.0.txt"
-hash = "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
-
-[[files]]
-file = "licenses/euphoria-patcher-Apache-NOTICE.txt"
-hash = "ae60becf952a606c0c5da56d10c239a9fe92539389b9da52d830d7daa1f0262d"
-
-[[files]]
-file = "licenses/euphoria-patcher-jbsdiff-BSD-2-Clause.txt"
-hash = "e7e69a2b7e3d2e227b956645a9359dbee2f783cd34149bdec5dce7c3b1b5dc8d"
 
 [[files]]
 file = "licenses/fantasy-0.4.11+1.20-rc1-LGPL-3.0.txt"
@@ -456,11 +428,6 @@ hash = "bbbdfbca17f71be5457165ffbe23865e6b6bb4a719a082e324be8e344d494ac6"
 metafile = true
 
 [[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "7e7d5fb3c195841720ea6443385449a4e9dfd09831972660e00230d53fec3a76"
-metafile = true
-
-[[files]]
 file = "mods/exposure.pw.toml"
 hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
 metafile = true
@@ -673,11 +640,6 @@ metafile = true
 [[files]]
 file = "mods/ioticiotas-0.1.0+aa340a6.jar"
 hash = "b19fe798f25a2481b4a4ab23129b3cfdd4556565edb866047ebaf800a256d9ca"
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "fe3e6bdf7ee24ca65e68ffe7110f0eb6c9c27bfcb94b190f63063aba4c7ff2bd"
-metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -1111,11 +1073,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/punchy-compatibility.pw.toml"
 hash = "8f27a917ccf74dbc2a525375ebedba8f40082f16ebd1d0873201ff3a7ae1133f"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "4b3e1e043e7267a81cdc94429d0d87e6d23f8a6f03ec70caee086cd5d12d17c1"
 metafile = true
 
 [[files]]

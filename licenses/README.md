@@ -52,21 +52,6 @@ For the two public commits, fetch from `https://review.pool.net.eu.org/HexAddons
 
 The four exact commits' root licence files are byte-identical to the full [LGPLv3 text already included here](fantasy-0.4.11+1.20-rc1-LGPL-3.0.txt); I reuse that unchanged text for all four, alongside the incorporated [GPLv3](GPL-3.0.txt). PhLib's Apache/Scala/ClassGraph notices cover its dependencies, while this LGPLv3 text covers PhLib's own code. Public source delivery for Hexic and PhLib and the Fantasy requirement above remain unresolved. This is a partial notice collection; a missing notice doesn't mean a component is free to redistribute.
 
-## House shader and Euphoria Patcher
-
-I use [Complementary Reimagined](https://www.complementary.dev/reimagined/) by Complementary Development with [Euphoria Patches](https://www.euphoriapatches.com/) by SpacEagle17 as my house shader. I take responsibility for problems arising from using the shader in my pack; please report pack problems to me rather than treating them as upstream shader bugs.
-
-I deliver the unchanged Complementary r5.9.3 zip through its official Modrinth download reference and the unchanged Euphoria Patcher mod through Modrinth. The patcher creates the patched shader locally; I do not distribute that generated shader. Its shader code is not covered by the patcher's MPL licence. I ship an external Iris selection file and a first-install LOW performance-options template, not edits inside the shader zip. Permission to distribute that separate options file is assumed provisionally, not confirmed; I will revisit its delivery if the authors say it is not permitted.
-
-| Notice | Component and notice source | Source |
-|---|---|---|
-| [complementary-reimagined-r5.9.3-License.txt](complementary-reimagined-r5.9.3-License.txt) | Complementary License Agreement 1.7, verbatim `License.txt` in r5.9.3 | [Official release Bqen1mJX](https://modrinth.com/shader/complementary-reimagined/version/Bqen1mJX) |
-| [euphoria-patcher-1.10.5-MPL-2.0.txt](euphoria-patcher-1.10.5-MPL-2.0.txt) | Euphoria Patcher 1.10.5-r5.9.3-fabric, verbatim `LICENSE_EuphoriaPatcher.txt` | [Official release YYczPGkW](https://modrinth.com/mod/euphoria-patches/version/YYczPGkW); [patcher source repository](https://github.com/EuphoriaPatches/EuphoriaPatcher) |
-| [euphoria-patcher-Apache-2.0.txt](euphoria-patcher-Apache-2.0.txt) and [retained NOTICE](euphoria-patcher-Apache-NOTICE.txt) | Euphoria Patcher's shaded Apache components; verbatim `commons-compress-LICENSE.txt` and `META-INF/NOTICE.txt`. The other embedded Apache licence copies remain inside the jar. | Same exact mod release |
-| [euphoria-patcher-jbsdiff-BSD-2-Clause.txt](euphoria-patcher-jbsdiff-BSD-2-Clause.txt) | Shaded jbsdiff, verbatim `jbsdiff-LICENSE.txt`, copyright 2016 Colorado State University | Same exact mod release |
-
-I have not established the patcher source commit used to build this release; the source link above is the upstream repository, not a claim that its current branch is the exact release source. [Euphoria's licence explanation](https://www.euphoriapatches.com/faq/#why-does-euphoria-patches-need-a-mod) distinguishes the patcher distribution from redistribution of the generated shader. The original notices remain inside both downloads.
-
 ## Shallows Crossing
 
 Shallows Crossing (working name), `shallows-crossing-0.2.0.jar`, is my own work, included here as a built test jar. I have not chosen or granted a licence for it yet. The other component notices and the pack licence do not grant a licence to this mod.

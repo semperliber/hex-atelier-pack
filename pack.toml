@@ -1,12 +1,12 @@
 name = "Hex Atelier"
 version = "0.0.0-dev"
-description = "My test pack, based on Hexwoven 6.2.0. Still in development. Built around Complementary Reimagined by Complementary Development (https://www.complementary.dev/) with Euphoria Patches by SpacEagle17."
+description = "My test pack, based on Hexwoven 6.2.0. Still in development."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a13a81c5691a2356f4bb22ead53bf50c81a605fc4a7f194fb109e5f8047554c0"
+hash = "85c40e53bb47dbebe96a4ff528d57f6fab4ca61eb29e58c3c24dd2fbe1edd2c3"
 
 [versions]
 fabric = "0.19.5"
